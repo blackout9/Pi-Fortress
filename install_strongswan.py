@@ -3,7 +3,7 @@
 # Import the subprocess module
 import subprocess
 
-# Define a function to run commands
+# Uses the 'subprocess' import to run commands through the shell
 def run_command(command):
     """Run a shell command."""
     try:
@@ -15,7 +15,7 @@ def run_command(command):
         print(f"Command failed with error: {e}")
         return e.stderr.decode("utf-8")
 
-# Define a function to install StrongSwan and related packages
+# Installs StrongSwan and related packages
 def install_strongswan():
     """Install StrongSwan and related packages."""
     run_command("sudo apt update")
