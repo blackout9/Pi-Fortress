@@ -7,7 +7,7 @@ Co-developed with Tyler Prettyman, our cutting-edge network security device is t
 * DNS and DHCP Services: Reliable and efficient network services.
 * VPN Integration with Tor: Enhance your privacy and security with integrated Tor support.
 * Personalized Profiles: Create and manage user profiles for tailored security settings.
-* User-Friendly Interface: Easily configure via a GUI or web interface.
+* User-Friendly Interface: Easily configure via web interface.
 * Raspberry Pi Powered: Harness the versatility and power of Raspberry Pi.
 
 # Installation:
