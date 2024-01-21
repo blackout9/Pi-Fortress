@@ -4,7 +4,7 @@ Co-developed with Tyler Prettyman, our cutting-edge network security device is t
 # Features
 * Modularity: Customize your security experience with adaptable modules.
 * Next-Generation Firewalls (NGFWs): Advanced protection against digital threats.
-* DNS and DHCP Services: Reliable and efficient network services.
+* DNS Sinkhole: Boost network safety and efficiency with our advanced Sinkhole feature, blocking threats and unwanted traffic with ease.
 * VPN Integration with Tor: Enhance your privacy and security with integrated Tor support.
 * Personalized Profiles: Create and manage user profiles for tailored security settings.
 * User-Friendly Interface: Easily configure via web interface.
